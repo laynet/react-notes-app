@@ -29,7 +29,7 @@ A very simple react CRUD app using local storage. The notes app lets the user ty
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://zingy-capybara-34fb14.netlify.app/)
+- Live Site URL: [Deployed with netlify](https://zingy-capybara-34fb14.netlify.app/)
 
 ## My process
 
